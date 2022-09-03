@@ -6,7 +6,6 @@ Minecraft_vocaloid_muzic_pack
 そこにこのzipファイルを入れてください。
 
 画像1
-[https://i.imgur.com/54bjJkM.png]
+![image](https://user-images.githubusercontent.com/112177886/188281680-d90fd542-7c8e-49f3-89dd-13849c8af803.png)
 
 画像2
-[https://i.imgur.com/R61dqU9.png]
